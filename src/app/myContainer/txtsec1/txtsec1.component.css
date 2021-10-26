@@ -1,0 +1,39 @@
+.txt-sec
+{
+  width:40% ;
+  background: blanchedalmond;
+  margin: 10px 5px;
+  padding: 10px;
+}
+.heading-red
+{
+  color:blueviolet ;
+  font-size:18px ;
+}
+.txt-sec p
+{
+  background: pink;
+  line-height:30px ;
+  padding: 10px;
+}
+.btn-red
+{
+  background: yellow;
+  color: red;
+  padding: 5px 10px;
+  border-radius:50px ;
+  -webkit-border-radius:50px ;
+  -moz-border-radius:50px ;
+  -ms-border-radius:50px ;
+  -o-border-radius:50px ;
+  text-decoration: none;
+  float: right;
+}
+.btn-red:hover
+{
+  background:brown ;
+}
+.clear
+{
+  clear: both;
+}
